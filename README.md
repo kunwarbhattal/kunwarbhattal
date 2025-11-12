@@ -55,7 +55,7 @@ I'm a **Software Developer Engineer (SDE)** in the making — passionate about b
 ### 🧰 Tech Stack
 
 #### 💻 Languages  
-`Python` · `JavaScript` · `C++` · `Bash`
+`Java` · `JavaScript` · `Python` - `Bash` - `C++`
 
 #### ⚙️ Frameworks & Libraries  
 `React` · `Node.js` · `Express` · `Socket.IO` · `OpenCV` · `NumPy`
